@@ -101,9 +101,11 @@ Para optener mayor información acerca de plugins puedes visitar la siguiente p�
 ## ¿Cómo elaborar plugins?
 Para poder elaborar plugins es necesario saber a programar en python;sin embargo, dentro de QGIS existe diferentes formas de como puedes iniciar a recorrer esta nueva aventura.
 
-Puedes empezar revizando el manuela de **PyQGIS** o los videos elaborados por **Victor Olaya**
+Puedes empezar revizando el manual de **PyQGIS**,el curso Customizing QGIS with Python de **Ujaval Gandhi** o los videos elaborados por **Victor Olaya**
 
 * Documentación de PyQgis:: <https://docs.qgis.org/3.10/en/docs/pyqgis_developer_cookbook/>.
+
+* Curso Customizing QGIS with Python:: <https://courses.spatialthoughts.com/pyqgis-in-a-day.html/>.
 
 * Curso de Programación QGIS 3 con Python:: <https://www.youtube.com/watch?v=vZ08dYlM-7U>
 
